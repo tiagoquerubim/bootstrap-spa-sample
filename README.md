@@ -1,2 +1,2 @@
 # bootstrap-spa-sample
-A sample single page application with bootstrap. 
+This is a sample project made during the course of bootstrap by Alura / Caellum.
